@@ -13,7 +13,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/rostvel/python3-idotmatrix-pacmantotal/total) ![Contributors](https://img.shields.io/github/contributors/rostvel/python3-idotmatrix-pacman?color=dark-green) ![Forks](https://img.shields.io/github/forks/rostvel/python3-idotmatrix-pacman?style=social) ![Stargazers](https://img.shields.io/github/stars/rostvel/python3-idotmatrix-pacman?style=social)
+![Contributors](https://img.shields.io/github/contributors/rostvel/python3-idotmatrix-pacman?color=dark-green) ![Forks](https://img.shields.io/github/forks/rostvel/python3-idotmatrix-pacman?style=social) ![Stargazers](https://img.shields.io/github/stars/rostvel/python3-idotmatrix-pacman?style=social)
 ![Issues](https://img.shields.io/github/issues/rostvel/python3-idotmatrix-pacman)
 ![License](https://img.shields.io/github/license/rostvel/python3-idotmatrix-pacman)
 
