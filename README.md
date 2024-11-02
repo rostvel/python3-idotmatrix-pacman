@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/rostvel/python3-idotmatrix-pacman">
-    <img src="images/logo.png" alt="Logo" width="500" height="603">
+    <img src="images/logo.png" alt="Logo" width="400" height="480">
   </a>
 
   <h3 align="center">Python3 iDotMatrix Pac-Man game</h3>
@@ -13,7 +13,9 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/derkalle4/python3-idotmatrix-client/total) ![Contributors](https://img.shields.io/github/contributors/derkalle4/python3-idotmatrix-client?color=dark-green) ![Forks](https://img.shields.io/github/forks/derkalle4/python3-idotmatrix-client?style=social) ![Stargazers](https://img.shields.io/github/stars/derkalle4/python3-idotmatrix-client?style=social) ![Issues](https://img.shields.io/github/issues/derkalle4/python3-idotmatrix-client) ![License](https://img.shields.io/github/license/derkalle4/python3-idotmatrix-client) 
+![Downloads](https://img.shields.io/github/downloads/rostvel/python3-idotmatrix-pacmantotal) ![Contributors](https://img.shields.io/github/contributors/rostvel/python3-idotmatrix-pacman?color=dark-green) ![Forks](https://img.shields.io/github/forks/rostvel/python3-idotmatrix-pacman?style=social) ![Stargazers](https://img.shields.io/github/stars/rostvel/python3-idotmatrix-pacman?style=social)
+![Issues](https://img.shields.io/github/issues/rostvel/python3-idotmatrix-pacman)
+![License](https://img.shields.io/github/license/rostvel/python3-idotmatrix-pacman)
 
 ## Table Of Contents
 
@@ -23,12 +25,8 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [GUI](#gui)
-* [Roadmap](#roadmap)
-* [Contributing](#contributing)
 * [License](#license)
 * [Authors](#authors)
-* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
@@ -119,10 +117,10 @@ Sets the brightness of the screen in percent: range 5..100
 
 ##### --game
 
-Sets the time of the device to the current local time.
+Start the Game
 
 ```sh
-./run_in_venv.sh --address 00:11:22:33:44:ff --sync-time
+./run_in_venv.sh --address 00:11:22:33:44:ff --game
 ```
 
 ### Features
@@ -133,7 +131,7 @@ Sets the time of the device to the current local time.
 
 </br>
 
-## Creating A Pull Request
+### Creating A Pull Request
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -147,5 +145,5 @@ Distributed under the GNU GENERAL PUBLIC License. See [LICENSE](https://github.c
 
 ## Authors
 
-* [Kalle Minkner](https://github.com/derkalle4) - *Cmd client*
+* [Kalle Minkner](https://github.com/derkalle4) - *Command client*
 * [Mike Szczys](https://github.com/szczys) - *Matrixman code by c language*
