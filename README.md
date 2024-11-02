@@ -30,7 +30,7 @@
 
 ## About The Project
 
-This repository is low-resolution take on the classic game for pixel screen displays iDotMatrix like [this one on Aliexpress](https://de.aliexpress.com/item/1005006105517779.html) of Pac-Man. The player is just 1-pixel in size. I wrote all of the code for the game, following of the ported C-code by [Mike Szczys](https://github.com/szczys/matrixman) and the part of original Python code [Kalle](https://github.com/derkalle4/python3-idotmatrix-client).
+This repository is low-resolution take on the classic game for pixel screen displays iDotMatrix like [this one on Aliexpress](https://de.aliexpress.com/item/1005006105517779.html) of Pac-Man. The player is just 1-pixel in size. I wrote code for the game, following of the ported C-code by [Mike Szczys](https://github.com/szczys/matrixman) and the part of original Python code [Kalle](https://github.com/derkalle4/python3-idotmatrix-client).
 
 ## Built With
 
@@ -146,4 +146,4 @@ Distributed under the GNU GENERAL PUBLIC License. See [LICENSE](https://github.c
 ## Authors
 
 * [Kalle Minkner](https://github.com/derkalle4) - *Command client*
-* [Mike Szczys](https://github.com/szczys) - *Matrixman code by c language*
+* [Mike Szczys](https://github.com/szczys) - *Matrixman code by C-language*
