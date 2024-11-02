@@ -112,7 +112,7 @@ Sets the time of the device to the current local time.
 Sets the brightness of the screen in percent: range 5..100
 
 ```sh
-./run_in_venv.sh --address 00:11:22:33:44:ff --sync-time
+./run_in_venv.sh --address 00:11:22:33:44:ff --set-brightness 40
 ```
 
 ##### --game
